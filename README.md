@@ -1,2 +1,2 @@
 # bhanupythonllife
-pythonlife programs
+sample python repository
