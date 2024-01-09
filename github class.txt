@@ -1,0 +1,17 @@
+1.What is a github?
+It is a highly used software that is used for version control.
+github helps users to build a centrailized repository where everyone can upload ,edit and manage code files.
+
+2.What is git?
+ it is a free high-qualified version control system for tracking modifications in source code in software development.
+
+Difference b/w git and github :
+
+          Git                                         Github
+
+1.git is a software                            1.github is a service.
+2.it is locally installed on systems.          2. it is hosted on web.
+3.Git is maintained by linux.                  3. github is maintained by microsoft.
+4.git is a command-line tool                   4. Github is a graphical user interface.
+5.It was released in 2005                      5. github was launched in 2008.
+
